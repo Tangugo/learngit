@@ -4,6 +4,7 @@
 
 def test():
     print 'hello world!'
+    print 'I Love You'
 
 if __name__ == '__main__':
     test()
