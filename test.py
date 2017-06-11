@@ -4,7 +4,8 @@
 
 def test():
     print 'hello world!'
-    print 'I Love You'
+    print "hello docker!"
+    print "hello python!"
 
 if __name__ == '__main__':
     test()
